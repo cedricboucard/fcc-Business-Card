@@ -3,8 +3,7 @@
 
 Responsive business card built with HTML & CSS. freeCodeCamp Lab.
 
-**Live Demo:** https://cedricboucard.github.io/fcc-business-card/
-
+**Live Demo:** https://cedricboucard.github.io/fcc-Business-Card/
 ## Skills
 - HTML5 semantic structure
 - CSS Box Model: margin, padding, width
